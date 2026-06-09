@@ -1,6 +1,68 @@
- {
-        "author": "Zeffi Setups",
-        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/1.png",
-        "name": "M85",
-        "collections": "Minimal"
-    },
+[
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/1.png",
+    "name": "W01",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/2.png",
+    "name": "W02",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/3.png",
+    "name": "W03",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/4.png",
+    "name": "W04",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/5.png",
+    "name": "W05",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/6.png",
+    "name": "W06",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/7.png",
+    "name": "W07",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/8.png",
+    "name": "W08",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/9.png",
+    "name": "W09",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/10.png",
+    "name": "W10",
+    "collections": "Wallpapers"
+  },
+  {
+    "author": "Zeffi Setups",
+    "url": "https://cdn.jsdelivr.net/gh/zeffisetup/mistuiwalls@master/Wallpapers/11.png",
+    "name": "W11",
+    "collections": "Wallpapers"
+  }
+]
